@@ -72,7 +72,7 @@
 
 
 ### 백엔드
-|                   **이찬의**                       |            **이가은**                      |                  **최제인**                       |
+|                   **이찬의**                       |            **이가은**                      |
 |:------------------------------------------------:|:------------------------------------------:|:----------------------------------------:|
-| ![image](https://github.com/user-attachments/assets/0f21b10e-0544-436e-a7e0-eec719552d7c) | ![image](https://github.com/user-attachments/assets/85653abe-840a-4dbd-b512-885768829221) | ![image](https://github.com/user-attachments/assets/c581aa2d-1c81-4457-a493-e9a7d839f4e0) |
-| [@dlrkdms125](https://github.com/dlrkdms125) | [@JeinChoi](https://github.com/JeinChoi) | [@xsomln](https://github.com/somln) |
+| ![image](https://github.com/user-attachments/assets/0f21b10e-0544-436e-a7e0-eec719552d7c) | ![image](https://github.com/user-attachments/assets/85653abe-840a-4dbd-b512-885768829221) |
+| [@dlrkdms125](https://github.com/dlrkdms125) | [@JeinChoi](https://github.com/JeinChoi) |
